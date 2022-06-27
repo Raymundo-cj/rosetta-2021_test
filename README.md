@@ -2,6 +2,14 @@
 
 ### This note documents the entire test process
 
+下面提到的所有文件均可以在下面路径找到
+```
+/public3/home/pg3152/caojian/test2
+```
+
+![image](https://user-images.githubusercontent.com/64938817/175912369-20b7d69c-e85c-4c4e-9955-fd3b650ef4c0.png)
+
+
 ## 1.构建motif文件
 
 ```
